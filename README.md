@@ -1,0 +1,2 @@
+# without-assignment
+without assignment
